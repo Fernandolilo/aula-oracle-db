@@ -1,0 +1,8 @@
+depois de instalado o bd vamos para a configuração:
+
+no meu caso esta instalado em C:\product\21c\homes\OraDB21Home1\network\admin> nesta rota vamos achar o listener.ora 
+
+de o seguinte comando no caso do Windows notepad + o nome do arquivo que ira abrir o arquivo para a devida configuração então neste caso:
+
+notepad listener.ora 
+
